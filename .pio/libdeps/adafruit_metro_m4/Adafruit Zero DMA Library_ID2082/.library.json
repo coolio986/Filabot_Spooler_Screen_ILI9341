@@ -1,0 +1,41 @@
+{
+    "name": "Adafruit Zero DMA Library", 
+    "version": "1.0.4", 
+    "keywords": [
+        "signal", 
+        "input", 
+        "output"
+    ], 
+    "description": "DMA helper/wrapped for ATSAMD21 such as Arduino Zero & Feather M0", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelsam"
+    ], 
+    "authors": [
+        {
+            "email": "info@adafruit.com", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Adafruit"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/adafruit/Adafruit_ZeroDMA"
+    }, 
+    "homepage": null, 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 2082
+}

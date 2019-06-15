@@ -1,0 +1,78 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/include",
+                "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/src",
+                "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/.pio/libdeps/adafruit_metro_m4/Adafruit Zero DMA Library_ID2082",
+                "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/.pio/libdeps/adafruit_metro_m4/Adafruit Zero DMA Library_ID2082/utility",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/cores/adafruit",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/system/samd/CMSIS/CMSIS/Include",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/system/samd/CMSIS-Atmel/CMSIS/Device/ATMEL",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/variants/metro_m4",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/HID",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/I2S/src",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/SAMD_AnalogCorrection/src",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/SDU/src",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/SPI",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/USBHost/src",
+                "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/Wire",
+                "C:/Users/Anthony/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${workspaceRoot}/.vscode/.browse.c_cpp.db",
+                "path": [
+                    "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/include",
+                    "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/src",
+                    "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/.pio/libdeps/adafruit_metro_m4/Adafruit Zero DMA Library_ID2082",
+                    "c:/Users/Anthony/Documents/PlatformIO/Projects/ILI9341_Screen/.pio/libdeps/adafruit_metro_m4/Adafruit Zero DMA Library_ID2082/utility",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/cores/adafruit",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/system/samd/CMSIS/CMSIS/Include",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/system/samd/CMSIS-Atmel/CMSIS/Device/ATMEL",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/variants/metro_m4",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/HID",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/I2S/src",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/SAMD_AnalogCorrection/src",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/SDU/src",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/SPI",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/USBHost/src",
+                    "C:/Users/Anthony/.platformio/packages/framework-arduinosam/libraries/__cores__/adafruit/Wire",
+                    "C:/Users/Anthony/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40000",
+                "ARDUINO_ARCH_SAMD",
+                "ARDUINO_METRO_M4",
+                "ADAFRUIT_METRO_M4_EXPRESS",
+                "__SAMD51J19A__",
+                "__SAMD51__",
+                "__FPU_PRESENT",
+                "ARM_MATH_CM4",
+                "ENABLE_CACHE",
+                "MAX_SPI=24000000",
+                "VARIANT_QSPI_BAUD_DEFAULT=50000000",
+                "F_CPU=120000000L",
+                "USBCON",
+                "ARDUINO=10805",
+                "USB_VID=0x239A",
+                "USB_PID=0x8020",
+                "USB_PRODUCT=\"Adafruit Metro M4\"",
+                "USB_MANUFACTURER=\"Adafruit\"",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"C:/Users/Anthony/.platformio/packages/toolchain-gccarmnoneeabi@1.40804.0/bin/arm-none-eabi-gcc.exe\" -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mthumb -mcpu=cortex-m4"
+        }
+    ],
+    "version": 4
+}
